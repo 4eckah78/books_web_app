@@ -1,1 +1,5 @@
 python-dotenv
+djangorestframework
+django
+psycopg2
+django-filter
